@@ -35,5 +35,5 @@ Firstly, clone the repository to your local machine. Ensure all prerequisites me
 We perform multiple levels of testing including RFID Card Verification, Real-time Monitoring of Present Individuals, LED Status and Control, and Logging of Entry Times.
 
 # Contact
-Should you have any questions, issues, or suggestions, please feel free to open an issue here, or send an email to mahmoud.kheyrati.fard@gmail.com.
+Should you have any questions, issues, or suggestions, please feel free to open an issue here, or send an email to mahmoud.kheyrati.fard@gmail.com or yasinrezaei@hotmail.com .
 
